@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731245794282",
+    "project_id": "workflow-6f10c",
+    "storage_bucket": "workflow-6f10c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731245794282:android:6daa2db1a5dd86bd68d893",
+        "android_client_info": {
+          "package_name": "SignFlow.ca.workflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731245794282-87nprvvl8a1p65s4jjvrk9tf1on5nv8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWoOqXrI34aama_162A3Z1sBIFwwJjFkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731245794282-87nprvvl8a1p65s4jjvrk9tf1on5nv8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
