@@ -10,6 +10,7 @@ class SignIn extends StatefulWidget {
 }
 
 class _SignInState extends State<SignIn> {
+  //auth object
   final AuthService _auth = AuthService();
 
   @override
@@ -31,7 +32,7 @@ class _SignInState extends State<SignIn> {
                 print('Error Sign In');
               } else {
                 print('sign in approved');
-                print(result);
+                print(result.uid);
               }
             },
           )),

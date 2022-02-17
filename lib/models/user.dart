@@ -1,7 +1,6 @@
-class UserData{
-
+class UserData {
   final String uid;
 
-  UserData({required this.uid})
-
+//constructor
+  UserData({required this.uid}) {}
 }

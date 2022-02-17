@@ -4,6 +4,7 @@ import 'package:workflow/screens/wrapper.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 void main() {
+  Firebase.initializeApp();
   return runApp(
     MaterialApp(
       home: Wrapper(),
